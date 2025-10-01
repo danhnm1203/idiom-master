@@ -10,10 +10,10 @@
 
 ## 📋 Project Status Dashboard
 
-### Overall Progress: 0% Complete
+### Overall Progress: 5% Complete
 
 ```
-Phase 1: Project Setup          [██        ] 1/5 tasks (Expo Init ✅)
+Phase 1: Project Setup          [████      ] 2/5 tasks (Expo Init ✅, Dependencies ✅)
 Phase 2: Data Layer             [          ] 0/4 tasks
 Phase 3: Navigation             [          ] 0/3 tasks
 Phase 4: Core Screens           [          ] 0/7 tasks
@@ -24,9 +24,9 @@ Phase 8: Final Steps            [          ] 0/4 tasks
 ```
 
 **Quick Stats:**
-- ✅ Completed: 1 task (Expo initialized)
+- ✅ Completed: 2 tasks (Expo initialized, Dependencies installed)
 - 🚧 In Progress: 0 tasks
-- 📋 Planned: 40 tasks
+- 📋 Planned: 39 tasks
 - 🐛 Known Issues: 0
 
 ---
@@ -135,10 +135,10 @@ IdiomMaster/
 
 ---
 
-#### 📋 Task 1.2: Install Core Dependencies
-**Status:** 📋 PLANNED  
-**Assigned:** -  
-**Started:** -  
+#### ✅ Task 1.2: Install Core Dependencies
+**Status:** ✅ COMPLETED
+**Completed:** 2025-10-01
+**Notes:** Successfully installed all core dependencies with software-architect guidance. Includes Zustand for state management, React Native Elements for UI, Expo AV for audio, Expo Notifications, SQLite for offline storage, and additional utilities.  
 
 **Requirements:**
 ```bash
